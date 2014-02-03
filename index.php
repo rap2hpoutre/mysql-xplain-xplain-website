@@ -48,7 +48,7 @@
 					<h3>Getting started</h3>
 					<ul>
 						<li>
-							<a href="https://github.com/rap2hpoutre/mysql-xplain-xplain/releases/download/v0.1.0/rap2h-mysql-explain-explain-1.0.0.zip">Download</a> and unzip it into your webroot folder.
+							<a href="https://github.com/rap2hpoutre/mysql-xplain-xplain/releases/download/v0.2.0/rap2h-mysql-explain-explain-0.2.0.zip">Download</a> and unzip it into your webroot folder.
 						</li>
 						<li>
 							Or install it with <a href="https://getcomposer.org/" target="_blank">composer</a> : <pre>composer create-project rap2h/mysql-explain-explain --prefer-dist</pre>
@@ -65,14 +65,14 @@
 					<h3>Contributing</h3>
 					<p>Yes, you <s>can</s> must <a target="_blank" href="https://github.com/rap2hpoutre/mysql-xplain-xplain/">improve this software on GitHub</a> and correct our poor english</p>
 					<h3>License</h3>
-					<p>That software is under <i>The MIT License (MIT)</i></p>
+					<p>This software is under <i>The MIT License (MIT)</i></p>
 				</div>
 
 
 
 				<div class="col-lg-6">
 					<h3>Why?</h3>
-					<p>MySQL <code>EXPLAIN</code> command is sometimes hard to understand. We try to make it more readable with some improvements. In a web browser.</p>
+					<p>The MySQL <code>EXPLAIN</code> command is sometimes hard to understand. We try to make it more readable with some improvements. In a web browser.</p>
 					<h3>What?</h3>
 					<a href="./screen.jpg" ><img src="./screen.jpg" class="img-responsive img-rounded" alt="screenshot"></a>
 					<h3>Dependencies</h3>
@@ -88,6 +88,5 @@
 			</div>
 
 		</div>
-		<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 	</body>
 </html>
