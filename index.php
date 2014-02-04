@@ -40,7 +40,7 @@
 			<div class="jumbotron">
 				<h1>Mysql Explain Explain</h1>
 				<p class="lead">Something like an upgraded `EXPLAIN` command for browser. Highlights and explains MySQL queries. It gives also hints and links. Hope it will help</p>
-				<p><a class="btn btn-lg btn-success" href="https://github.com/rap2hpoutre/mysql-xplain-xplain/releases/download/v0.1.0/rap2h-mysql-explain-explain-1.0.0.zip" role="button"><span class="glyphicon glyphicon-download"></span> Download latest version</a></p>
+				<p><a class="btn btn-lg btn-success" href="https://github.com/rap2hpoutre/mysql-xplain-xplain/releases/download/v0.2.0/rap2h-mysql-explain-explain-0.2.0.zip" role="button"><span class="glyphicon glyphicon-download"></span> Download latest version</a></p>
 			</div>
 			<div class="row marketing">
 
